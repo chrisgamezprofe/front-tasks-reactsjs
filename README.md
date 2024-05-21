@@ -1,8 +1,45 @@
-# React + Vite
+# Nombre del Proyecto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tasks React Spring Boot
 
-Currently, two official plugins are available:
+## Requisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Node.js 
+- npm
+
+## Instalación
+
+1. Clona este repositorio:
+
+    ```bash
+    git clone https://github.com/chrisgamezprofe/front-tasks-reactsjs.git
+    ```
+
+2. Navega al directorio del proyecto:
+
+    ```bash
+    cd nombre-del-proyecto
+    ```
+
+3. Instala las dependencias:
+
+    ```bash
+    npm install
+    ```
+
+    o
+
+    ```bash
+    yarn install
+    ```
+
+## Uso
+
+Describe cómo iniciar y utilizar la aplicación. Proporciona ejemplos de comandos para ejecutarla en entornos de desarrollo y producción.
+
+### Desarrollo
+
+Para iniciar la aplicación en un entorno de desarrollo:
+
+```bash
+npm start
